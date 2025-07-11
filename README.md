@@ -1,2 +1,2 @@
-FLAGS: https://flagcdn.com
-COUNTRY CODE: https://restcountries.com
+FLAGS: https://flagcdn.com & COUNTRY CODE: https://restcountries.com
+
